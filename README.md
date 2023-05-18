@@ -1,6 +1,6 @@
 Hello my name is Jason.
 
-About to start a coding camp with School of Code!
+I've been immersing myself in code through the coding camp, School of Code!
 
 Here is some quick information about me:
 
