@@ -1,6 +1,6 @@
 Hello my name is Jason.
 
-I've also had a great interest in the technical side of my previous roles in the lighting industry. So I decided last year to pursue a career in tech. Since then I've completed numerous course and built several projects. It's been a great experience because I actually enjoy this work in my spare time, and would like to find a role where I can do this full time.
+I've always had a great interest in the technical side of my previous roles in the lighting industry. So I decided last year to pursue a career in tech. Since then I've completed numerous courses and built several projects. It's been a great experience because I actually enjoy this work in my spare time, and would like to find a role where I can do this full time.
 
 Here is some quick information about me:
 
