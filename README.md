@@ -1,5 +1,3 @@
-Hello my name is Jason.
-
 Hello my name is Jason,
 
 For 10 years I have been designing and specifying building management systems in London. This passion for technology has led me to begin building my own web-based applications. For the last 2 years I’ve been learning and building using a range of technologies, as I have a drive to get a better understanding of how these web apps work.
